@@ -1,2 +1,3 @@
 Ce vrei sa comiti??Tot? Nu. Doare ce e in staging area./
 incercare de comis fara add
+line3
