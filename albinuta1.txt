@@ -1,1 +1,2 @@
 Astazi invat git de la Sever :)
+Si  incerc sa inteleg diferenta intre git status si unde e de fapt albinuta1
