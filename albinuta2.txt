@@ -1,1 +1,2 @@
-Ce vrei sa comiti??Toto? Nu. Doare ce e in staging area./
+Ce vrei sa comiti??Tot? Nu. Doare ce e in staging area./
+incercare de comis fara add
