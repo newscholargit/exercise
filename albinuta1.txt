@@ -1,4 +1,4 @@
-Astazi invat git de la Sever :)
+Astazi invat git  :)
 Si  incerc sa inteleg diferenta intre git status si unde e de fapt albinuta1
 line3_deasemenea
 linie 4
