@@ -1,4 +1,4 @@
-Ce vrei sa comiti??Tot? Nu. Doare ce e in staging area./
+Ce vrei sa comiti??Tot? Nu. Doar ce e in staging area./
 incercare de comis fara add
 line3
 linie 4 si aici
